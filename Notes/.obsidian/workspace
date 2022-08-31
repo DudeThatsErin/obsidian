@@ -72,6 +72,7 @@
     "type": "mobile-drawer",
     "children": [
       {
+<<<<<<< HEAD
         "id": "2d46617b702550b9",
         "type": "leaf",
         "state": {
@@ -107,6 +108,76 @@
           "type": "outline",
           "state": {
             "file": "Untitled.md"
+=======
+        "id": "cafb313ae9cb4522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf6b93ef7e9d0b22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0733aef0537c382",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dabbb21ecaf44323",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89fb4656d610145c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "443c064545d2f5e7",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9ef546b37ce855f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+>>>>>>> 186f8ce1f2ece81263fa1246690ad84aec6a4a53
           }
         }
       },
